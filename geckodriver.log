@@ -1860,3 +1860,40 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk
 JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
 JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
 JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1624818182082	geckodriver	INFO	Listening on 127.0.0.1:52491
+1624818185057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilevVgLSh"
+*** You are running in headless mode.
+1624818185676	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624818187321	Marionette	INFO	Listening on port 51588
+1624818187728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1624822196227	geckodriver	INFO	Listening on 127.0.0.1:61150
+1624822199156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilecZQKrM"
+*** You are running in headless mode.
+1624822199859	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624822201527	Marionette	INFO	Listening on port 61158
+1624822201831	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).

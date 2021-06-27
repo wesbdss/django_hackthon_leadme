@@ -3,8 +3,11 @@
 {% block content %}
 
 <div class="login-page">
+
     <div class="form">
         <form action="{% url 'app:login' %}" method="POST" class="login-form">
+            <img class="pb-2" src="{% static 'imgs/logo.png' %}" width="200px" alt="">
+            <!--  -->
             {% csrf_token %}
             <input type="text" placeholder="Usuário" name="username" />
             <input type="password" placeholder="Senha" name="password" />

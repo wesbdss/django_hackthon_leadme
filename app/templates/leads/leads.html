@@ -37,10 +37,14 @@
 
                             <tr data-toggle="collapse" href="#collapseExample{{lead.id}}">
                                 <th scope="row">{{lead.empresa}}</th>
-                                <td>{{lead.nome}}</td>
+                                <td>{{lead.nome}} {% if lead.telefone %}<i class="fas fa-phone-alt"></i>{% endif %} {% if lead.email %}<i class="fas fa-envelope"></i>{% endif %}
+
+                                </td>
                                 <td>{{lead.cargo}}</td>
+
                                 <td>
                                     <a class="btn btn-primary" href="{{lead.link}}"><i class="fab fa-linkedin"></i></a>
+
 
                                 </td>
                             </tr>
