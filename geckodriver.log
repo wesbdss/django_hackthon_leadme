@@ -175,10 +175,10 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k
 JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilexkm3v2"
-*** You are running in headless mode.
-1624800081832	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 19396, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1624824635059	Marionette	INFO	Stopped listening on port 57321
+ No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1624800083229	Marionette	INFO	Listening on port 53863
 1624800083316	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
@@ -212,10 +212,10 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25
 JavaScript warning: https://static-exp1.licdn.com/sc/h/10ffcgkwvq7xvex2muvd874vg, line 6: unreachable code after return statement
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilePYiQ9C"
-*** You are running in headless mode.
-1624800154380	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 1292, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1624824640821	Marionette	INFO	Stopped listening on port 53863
+: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1624800155531	Marionette	INFO	Listening on port 53117
 1624800155841	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
@@ -273,10 +273,10 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k
 JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofileLXekOb"
-*** You are running in headless mode.
-1624800231911	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 7768, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1624824632030	Marionette	INFO	Stopped listening on port 53117
+: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1624800233177	Marionette	INFO	Listening on port 64290
 1624800233446	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
@@ -428,10 +428,10 @@ JavaScript error: , line 0: uncaught exception: Object
 1624802475885	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilevyo2SK"
-*** You are running in headless mode.
-1624802533652	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 20096, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1624824630767	Marionette	INFO	Stopped listening on port 60974
+ No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1624802535053	Marionette	INFO	Listening on port 59476
 1624802535136	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
@@ -465,8 +465,11 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25
 JavaScript warning: https://static-exp1.licdn.com/sc/h/10ffcgkwvq7xvex2muvd874vg, line 6: unreachable code after return statement
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofile3VUMHJ"
-*** You are running in headless mode.
+Exiting due to channel error.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9E0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+e running in headless mode.
 1624802586249	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1624802587621	Marionette	INFO	Listening on port 53492
@@ -676,11 +679,13 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25
 JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofile6xCqYL"
-*** You are running in headless mode.
-1624807030098	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1624807031481	Marionette	INFO	Listening on port 55458
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 20412, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624824629346	Marionette	INFO	Stopped listening on port 59595
+	INFO	Listening on port 55458
 1624807031610	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
@@ -790,11 +795,11 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/20oldnhklhzz1f88661e0volz
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript warning: https://static-exp1.licdn.com/sc/h/20oldnhklhzz1f88661e0volz, line 88: Failed to create WebGL context: WebGL creation failed: 
 * Canconsole.log: WebExtensions: reset-default-search: starting.console.log: WebExtensions: reset-default-search: starting.
-console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofile53rbzb"
-*** You are running in headless mode.
-1624811713420	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: Exiting due to channel error.
+Exiting due to channel error.A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 22456, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1624824649763	Marionette	INFO	Stopped listening on port 56466
+ No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1624811715062	Marionette	INFO	Listening on port 65326
 1624811715567	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
@@ -811,9 +816,10 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/20oldnhklhzz1f88661e0volz
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilevY8mX0"
-1624811783421	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 21704, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1624824650556	Marionette	INFO	Stopped listening on port 65326
+"", "(unknown module)"))
 1624811786935	Marionette	INFO	Listening on port 54812
 1624811787035	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
@@ -1061,7 +1067,9 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/20oldnhklhzz1f88661e0volz
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofiledBWg6V"
+Exiting due to channel error.
+Exiting due to channel error.
+file" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofiledBWg6V"
 1624814829542	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1624814832566	Marionette	INFO	Listening on port 57827
@@ -1838,8 +1846,10 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i
 JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-1624817421457	geckodriver	INFO	Listening on 127.0.0.1:55160
-1624817424500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilegunwVG"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 22792, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1624824637515	Marionette	INFO	Stopped listening on port 62562
+\\rust_mozprofilegunwVG"
 *** You are running in headless mode.
 1624817425217	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
@@ -1862,8 +1872,10 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i
 JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-1624818182082	geckodriver	INFO	Listening on 127.0.0.1:52491
-1624818185057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilevVgLSh"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 24972, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1624824635903	Marionette	INFO	Stopped listening on port 54490
+\\rust_mozprofilevVgLSh"
 *** You are running in headless mode.
 1624818185676	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
@@ -1886,8 +1898,10 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i
 JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-1624822196227	geckodriver	INFO	Listening on 127.0.0.1:61150
-1624822199156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilecZQKrM"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 24940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1624824633449	Marionette	INFO	Stopped listening on port 51588
+\\rust_mozprofilecZQKrM"
 *** You are running in headless mode.
 1624822199859	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
@@ -1897,3 +1911,76 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 17564, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1624824648230	Marionette	INFO	Stopped listening on port 61158
+1624831929826	geckodriver	INFO	Listening on 127.0.0.1:64606
+1624831932762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofile0Vd0ih"
+*** You are running in headless mode.
+1624831933562	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624831936103	Marionette	INFO	Listening on port 64614
+1624831936209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624831938650	geckodriver	INFO	Listening on 127.0.0.1:64654
+1624831941555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofileDOXXfh"
+*** You are running in headless mode.
+1624831942691	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624831945232	Marionette	INFO	Listening on port 64670
+1624831945735	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624831999958	geckodriver	INFO	Listening on 127.0.0.1:54362
+1624832002949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilel7L2qF"
+*** You are running in headless mode.
+1624832003552	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624832005220	Marionette	INFO	Listening on port 54371
+1624832005620	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624832006970	geckodriver	INFO	Listening on 127.0.0.1:54410
+1624832009928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofileIX21Nx"
+*** You are running in headless mode.
+1624832010531	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624832012008	Marionette	INFO	Listening on port 53786
+1624832012084	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624832071394	geckodriver	INFO	Listening on 127.0.0.1:61267
+1624832079940	geckodriver	INFO	Listening on 127.0.0.1:55396
+1624832082956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofile9gnbto"
+1624832083696	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624832086267	Marionette	INFO	Listening on port 55404
+1624832086637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1624832109236	Marionette	INFO	Stopped listening on port 55404
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

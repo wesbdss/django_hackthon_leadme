@@ -17,20 +17,29 @@ from selenium.webdriver import ActionChains
 from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver.firefox.options import Options
 import time
+import pickle
+
 
 driver = None
 options = Options()
-options.headless = True
+options.headless = False
+# precisa do firefox instalado na maquina
 driver = webdriver.Firefox(options=options,executable_path=GeckoDriverManager().install())
-driver.get('https://www.linkedin.com/login?fromSignIn=true&trk=guest_homepage-basic_nav-header-signin')
-driver.implicitly_wait(2)
-username = driver.find_element_by_id('username')
-username.send_keys('<seu email do linkedin>')
-password = driver.find_element_by_id('password')
-password.send_keys('<sua senha do linkedin>')
-button = driver.find_element_by_class_name('btn__primary--large')
-button.click()  
-driver.implicitly_wait(2)
+driver.get('https://www.linkedin.com/')
+cookies = pickle.load(open("./api/cookies.pkl", "rb"))
+for cookie in cookies:
+    driver.add_cookie(cookie)
+driver.get('https://www.linkedin.com/')
+# 
+# driver.implicitly_wait(2)
+# username = driver.find_element_by_id('username')
+# username.send_keys('<seu email do linkedin>')
+# password = driver.find_element_by_id('password')
+# password.send_keys('<sua senha do linkedin>')
+# button = driver.find_element_by_class_name('btn__primary--large')
+# button.click()  
+# driver.implicitly_wait(2)
+
 
 class UserViewSet(viewsets.ModelViewSet):
     """
