@@ -1,0 +1,1838 @@
+1624799575473	geckodriver	INFO	Listening on 127.0.0.1:58345
+1624799578489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofileD2tpXQ"
+*** You are running in headless mode.
+1624799579073	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624799580654	Marionette	INFO	Listening on port 58353
+1624799581225	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwn75exru9gf2qab0c9pzgbga, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djf39dp6ze3sc27w2gqdqm640, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/10ffcgkwvq7xvex2muvd874vg, line 6: unreachable code after return statement
+1624799601928	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+1624799608911	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+1624799614986	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+1624799621086	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+1624799627955	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624799634787	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624799648579	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624799658548	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624799667518	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1624799672978	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624799684191	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624799696028	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624799705512	Marionette	INFO	Stopped listening on port 58353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624799946807	geckodriver	INFO	Listening on 127.0.0.1:57312
+1624799949807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofile5k5UZV"
+*** You are running in headless mode.
+1624799950383	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624799951705	Marionette	INFO	Listening on port 57321
+1624799951866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwn75exru9gf2qab0c9pzgbga, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djf39dp6ze3sc27w2gqdqm640, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/10ffcgkwvq7xvex2muvd874vg, line 6: unreachable code after return statement
+1624799970947	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+1624799976523	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+1624799983394	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilexkm3v2"
+*** You are running in headless mode.
+1624800081832	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624800083229	Marionette	INFO	Listening on port 53863
+1624800083316	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwn75exru9gf2qab0c9pzgbga, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djf39dp6ze3sc27w2gqdqm640, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/10ffcgkwvq7xvex2muvd874vg, line 6: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilePYiQ9C"
+*** You are running in headless mode.
+1624800154380	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624800155531	Marionette	INFO	Listening on port 53117
+1624800155841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwn75exru9gf2qab0c9pzgbga, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djf39dp6ze3sc27w2gqdqm640, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/10ffcgkwvq7xvex2muvd874vg, line 6: unreachable code after return statement
+1624800175472	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+1624800182721	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofileLXekOb"
+*** You are running in headless mode.
+1624800231911	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624800233177	Marionette	INFO	Listening on port 64290
+1624800233446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwn75exru9gf2qab0c9pzgbga, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djf39dp6ze3sc27w2gqdqm640, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/10ffcgkwvq7xvex2muvd874vg, line 6: unreachable code after return statement
+1624800251918	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+1624800257449	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+1624800270799	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+1624800277815	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624800284414	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624800294488	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624800295682	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624800306369	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624800315988	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624800326218	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624800336701	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624800346344	Marionette	INFO	Stopped listening on port 64290
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624802419438	geckodriver	INFO	Listening on 127.0.0.1:60964
+1624802422396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofileNIgTNw"
+*** You are running in headless mode.
+1624802422996	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624802424277	Marionette	INFO	Listening on port 60974
+1624802424462	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwn75exru9gf2qab0c9pzgbga, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djf39dp6ze3sc27w2gqdqm640, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/10ffcgkwvq7xvex2muvd874vg, line 6: unreachable code after return statement
+1624802443366	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+1624802448911	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1624802468916	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624802475885	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilevyo2SK"
+*** You are running in headless mode.
+1624802533652	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624802535053	Marionette	INFO	Listening on port 59476
+1624802535136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwn75exru9gf2qab0c9pzgbga, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djf39dp6ze3sc27w2gqdqm640, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/10ffcgkwvq7xvex2muvd874vg, line 6: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofile3VUMHJ"
+*** You are running in headless mode.
+1624802586249	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624802587621	Marionette	INFO	Listening on port 53492
+1624802587753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwn75exru9gf2qab0c9pzgbga, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djf39dp6ze3sc27w2gqdqm640, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/10ffcgkwvq7xvex2muvd874vg, line 6: unreachable code after return statement
+1624802607378	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1624802613578	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+1624802619677	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+1624802626756	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1624802632772	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624802648884	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624802649913	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624802659673	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624802661819	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624802673277	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624802683387	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624802692286	Marionette	INFO	Stopped listening on port 53492
+[Child 12540, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1624802828404	geckodriver	INFO	Listening on 127.0.0.1:58803
+1624802831438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofileUerm1w"
+*** You are running in headless mode.
+1624802832080	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624802833360	Marionette	INFO	Listening on port 58812
+1624802833480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwn75exru9gf2qab0c9pzgbga, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djf39dp6ze3sc27w2gqdqm640, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/10ffcgkwvq7xvex2muvd874vg, line 6: unreachable code after return statement
+1624802852864	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+1624802858214	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+1624802866069	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1624802872630	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1624802879578	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624802888066	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624802889103	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624802896203	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624802909048	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624802910126	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624802916423	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624802925268	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624802933651	Marionette	INFO	Stopped listening on port 58812
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624806872477	geckodriver	INFO	Listening on 127.0.0.1:59584
+1624806875487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofiledOeVaQ"
+*** You are running in headless mode.
+1624806876034	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624806877421	Marionette	INFO	Listening on port 59595
+1624806877543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofile6xCqYL"
+*** You are running in headless mode.
+1624807030098	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624807031481	Marionette	INFO	Listening on port 55458
+1624807031610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djf39dp6ze3sc27w2gqdqm640, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/10ffcgkwvq7xvex2muvd874vg, line 6: unreachable code after return statement
+1624807054695	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+1624807060903	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+1624807066518	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+1624807076999	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+1624807085334	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+1624807093321	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 21876: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1624807095138	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624807095138	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djf39dp6ze3sc27w2gqdqm640, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/10ffcgkwvq7xvex2muvd874vg, line 6: unreachable code after return statement
+1624807103029	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+1624807111631	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624807121464	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624807141788	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624807154350	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624807165935	Marionette	INFO	Stopped listening on port 55458
+1624811644760	geckodriver	INFO	Listening on 127.0.0.1:50917
+1624811647658	mozrunner::runner	INFO	Running command: "C:\\P1624811650566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilejQaF9Y"
+*** You are running in headless mode.
+1624811651520	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624811653571	Marionette	INFO	Listening on port 56466
+1624811653824	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6zty0q7fkrt6l9k6ie7um2f6z, line 89: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6zty0q7fkrt6l9k6ie7um2f6z, line 89: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/20oldnhklhzz1f88661e0volz, line 88: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/20oldnhklhzz1f88661e0volz, line 88: Failed to create WebGL context: WebGL creation failed: 
+* Canconsole.log: WebExtensions: reset-default-search: starting.console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofile53rbzb"
+*** You are running in headless mode.
+1624811713420	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624811715062	Marionette	INFO	Listening on port 65326
+1624811715567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6zty0q7fkrt6l9k6ie7um2f6z, line 89: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6zty0q7fkrt6l9k6ie7um2f6z, line 89: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/20oldnhklhzz1f88661e0volz, line 88: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/20oldnhklhzz1f88661e0volz, line 88: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilevY8mX0"
+1624811783421	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624811786935	Marionette	INFO	Listening on port 54812
+1624811787035	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624811897681	Marionette	INFO	Stopped listening on port 54812
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624811908528	geckodriver	INFO	Listening on 127.0.0.1:57299
+1624811911474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofileXj47G1"
+1624811912135	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624811915002	Marionette	INFO	Listening on port 58121
+1624811915350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+1624812300176	Marionette	INFO	Stopped listening on port 58121
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofileTCTfu0"
+1624812021959	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624812025051	Marionette	INFO	Listening on port 60470
+1624812025133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624812300005	Marionette	INFO	Stopped listening on port 60470
+4812105559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilenGT1dc"
+1624812106188	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624812109329	Marionette	INFO	Listening on port 60640
+1624812109830	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+1624812300003	Marionette	INFO	Stopped listening on port 60640
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rofilegL5U5A"
+1624812172921	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624812176119	Marionette	INFO	Listening on port 59184
+1624812176695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624812299702	Marionette	INFO	Stopped listening on port 59184
+4812221073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofileibV39S"
+1624812221682	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624812225272	Marionette	INFO	Listening on port 52176
+1624812225379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/5ixrdl09z48fzfr96v3gdgldd, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+1624812300189	Marionette	INFO	Stopped listening on port 52176
+4812280864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilekmOFij"
+1624812281532	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624812284798	Marionette	INFO	Listening on port 50852
+1624812285054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Child 27192, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1624812300706	Marionette	INFO	Stopped listening on port 50852
+1624812323583	geckodriver	INFO	Listening on 127.0.0.1:49819
+1624812326502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilezh7ksY"
+1624812327193	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624812330334	Marionette	INFO	Listening on port 61813
+1624812330675	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20928, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 20928, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1624812358002	Marionette	INFO	Stopped listening on port 61813
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624812401082	geckodriver	INFO	Listening on 127.0.0.1:54302
+1624812404112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofileFbcv2h"
+1624812404788	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624812408427	Marionette	INFO	Listening on port 57678
+1624812408962	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1624812420536	Marionette	INFO	Stopped listening on port 57678
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624812434638	geckodriver	INFO	Listening on 127.0.0.1:60920
+1624812437574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilefelQex"
+1624812438255	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624812441546	Marionette	INFO	Listening on port 64748
+1624812441593	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1624815260229	Marionette	INFO	Stopped listening on port 64748
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+om/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djf39dp6ze3sc27w2gqdqm640, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/10ffcgkwvq7xvex2muvd874vg, line 6: unreachable code after return statement
+1624812487807	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+1624812506738	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+1624812516817	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+1624812526633	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624812527900	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+1624812538754	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624812685962	Marionette	INFO	Stopped listening on port 56293
+1624814741036	geckodriver	INFO	Listening on 127.0.0.1:49499
+1624814744028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilesExKSe"
+*** You are running in headless mode.
+1624814744649	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624814746153	Marionette	INFO	Listening on port 52894
+1624814746195	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/20oldnhklhzz1f88661e0volz, line 88: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/20oldnhklhzz1f88661e0volz, line 88: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofiledBWg6V"
+1624814829542	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624814832566	Marionette	INFO	Listening on port 57827
+1624814832591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624815085240	Marionette	INFO	Stopped listening on port 57827
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624815106188	geckodriver	INFO	Listening on 127.0.0.1:53637
+1624815109151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofileGlPysa"
+1624815109766	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624815112352	Marionette	INFO	Listening on port 55143
+1624815112834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bm7ulu6wokwmsve5k9ytew4vz, line 5061: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624815259209	Marionette	INFO	Stopped listening on port 55143
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rofilerx1NvV"
+1624815165897	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624815168381	Marionette	INFO	Listening on port 65413
+1624815168520	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript error: https://www.paypal.com/webapps/hermes/static/js/post-robot.js, line 268: Error: No ack for postMessage cookie_check
+JavaScript error: https://static-exp1.licdn.com/sc/h/2upt1uquasfi6aiwpwbupldbr, line 11943: TypeError: b is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/2upt1uquasfi6aiwpwbupldbr, line 11943: TypeError: b is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+1624815256725	Marionette	INFO	Stopped listening on port 65413
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624815265093	geckodriver	INFO	Listening on 127.0.0.1:50224
+1624815268070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofileKFV5cz"
+1624815268677	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624815271385	Marionette	INFO	Listening on port 61452
+1624815271984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djf39dp6ze3sc27w2gqdqm640, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/10ffcgkwvq7xvex2muvd874vg, line 6: unreachable code after return statement
+[Child 21820, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 21820, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1624815449413	Marionette	INFO	Stopped listening on port 61452
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+arionette	INFO	Listening on port 60299
+1624815345890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djf39dp6ze3sc27w2gqdqm640, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/10ffcgkwvq7xvex2muvd874vg, line 6: unreachable code after return statement
+1624815448695	Marionette	INFO	Stopped listening on port 60299
+4815447568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofileGeY4Qs"
+1624815448219	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624815451608	Marionette	INFO	Listening on port 51997
+1624815451871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624815690779	Marionette	INFO	Stopped listening on port 51997
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+NFO	Listening on port 58072
+1624815510182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624815691441	Marionette	INFO	Stopped listening on port 58072
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ this session
+1624815692275	Marionette	INFO	Stopped listening on port 57228
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofileFm520n"
+1624815601189	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624815604446	Marionette	INFO	Listening on port 55348
+1624815604955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624815780726	Marionette	INFO	Stopped listening on port 55348
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofileV73fUj"
+1624815621259	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624815623688	Marionette	INFO	Listening on port 51586
+1624815623834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+1624815667791	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624815779171	Marionette	INFO	Stopped listening on port 51586
+4815774137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilemW42Z4"
+1624815774779	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624815777332	Marionette	INFO	Listening on port 53780
+1624815777814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624815780082	Marionette	INFO	Stopped listening on port 53780
+1624815789505	geckodriver	INFO	Listening on 127.0.0.1:49314
+1624815792522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilemdoMiI"
+1624815793049	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624815795609	Marionette	INFO	Listening on port 51721
+1624815795707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+1624815931353	Marionette	INFO	Stopped listening on port 51721
+4815922442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilewf7xle"
+1624815923221	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624815927048	Marionette	INFO	Listening on port 58664
+1624815927290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+[Child 18072, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624816021177	Marionette	INFO	Stopped listening on port 58664
+
+###!!! [Child][Ruconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624816024438	Marionette	INFO	Listening on port 56604
+1624816024475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+1624816032096	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djf39dp6ze3sc27w2gqdqm640, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/10ffcgkwvq7xvex2muvd874vg, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+1624816142127	Marionette	INFO	Stopped listening on port 56604
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rofileutegRe"
+1624816110967	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624816113612	Marionette	INFO	Listening on port 62842
+1624816113973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624816143747	Marionette	Iconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624816145384	Marionette	INFO	Listening on port 61224
+1624816145768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624816379184	Marionette	INFO	Stopped listening on port 61224
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+o settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624816363109	Marionette	INFO	Listening on port 53745
+1624816363506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+1624816377143	Marionette	INFO	Stopped listening on port 53745
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624816394053	geckodriver	INFO	Listening on 127.0.0.1:61700
+1624816396970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofileoMtpig"
+1624816397519	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624816400099	Marionette	INFO	Listening on port 58820
+1624816400145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+1624816467829	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, m1624816568272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624816571040	Marionette	INFO	Listening on port 53578
+1624816571097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ebf0txai98168mowe4na2j5pe, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djf39dp6ze3sc27w2gqdqm640, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/10ffcgkwvq7xvex2muvd874vg, line 6: unreachable code after return statement
+1624816618649	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1624816626423	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/96dmoldgrmxrsbd6stiyr9x02, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5qioxr0vbkd6797ly0mr42sxk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7g4fphqvwx1d6671f7jd0a5ak, line 6: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,na1624816757475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wey\\AppData\\Local\\Temp\\rust_mozprofilewwFY2W"
+*** You are running in headless mode.
+1624816758203	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624816759589	Marionette	INFO	Listening on port 62562
+1624816759632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bhfo2qm6smysgw6hjwn33v6ij, line 3739: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5tymalyeorsg9gjghe2jsel6f, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/b0gtfkfjt2v15024668fdc3lq, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e12faqpn1w8n5vtiwrb8sn35i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9rwyq6h0q86pxpcoac3v4njw0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/85g74e12f26xthz97pm5ult25, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/afnwxh2s0tltzfmiuo07mkmfk, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/af1on4lxo049zxz3v2wxeq0op, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3oij4v19x536cul7xkfdt034i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5n5xiyohqs4hpfsd9z864l62k, line 6: unreachable code after return statement

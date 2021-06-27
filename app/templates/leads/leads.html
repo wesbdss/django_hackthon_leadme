@@ -1,0 +1,113 @@
+{% extends 'base/base.html' %}
+<!--  -->
+{% block content %}
+<!--  -->
+{% include 'navbar/navbar.html' %}
+
+
+
+
+
+<div class="bg-light sidebar-custom">
+    <div class="row p-2">
+        <div class="col-3">
+            <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">Todos os Leads</a>
+                <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Suas Listas</a>
+            </div>
+
+        </div>
+        <div class="col-9">
+            <div class="tab-content" id="v-pills-tabContent">
+                <div class="tab-pane fade show active " id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab" style="height: 90vh ; overflow-x: scroll">
+                    <h1>Todas as Leads</h1>
+                    {% if content.all %}
+                    <table class="table table-striped table-hover table-sm">
+                        <thead>
+                            <tr>
+                                <th scope="col">Empresa</th>
+                                <th scope="col">Nome</th>
+                                <th scope="col">Cargo</th>
+                                <th scope="col">Linkedin</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            {% for lead in content.all %}
+
+                            <tr data-toggle="collapse" href="#collapseExample{{lead.id}}">
+                                <th scope="row">{{lead.empresa}}</th>
+                                <td>{{lead.nome}}</td>
+                                <td>{{lead.cargo}}</td>
+                                <td>
+                                    <a class="btn btn-primary" href="{{lead.link}}"><i class="fab fa-linkedin"></i></a>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <div class="collapse nowrap" id="collapseExample{{lead.id}}">
+                                    <div class="card card-body">
+                                        <div class="row">
+                                            <div class="col">
+                                                {% if lead.telefone %}<i class="fas fa-phone-alt"></i> {{lead.telefone}} {% else %} <i class="fas fa-feather-alt"></i> <span class="text-danger">Número em Análise</span> {% endif %}
+                                            </div>
+                                            <div class="col">
+                                                {% if lead.email %}<i class="fas fa-envelope"></i> {{lead.email}} {% else %} <i class="fas fa-feather-alt"></i> <span class="text-danger">Email em Análise</span> {% endif %}
+                                            </div>
+                                            <a class="btn btn-primary" onclick="$('#collapseExample{{lead.id}}').collapse('hide')">X</a>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+                            </tr>
+
+                            {% endfor%}
+
+                        </tbody>
+
+                    </table>
+
+                    {% endif %}
+
+                </div>
+                <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab" style="height: 90vh ; overflow-x: scroll">
+                    <h1>Suas Listas</h1>
+                    {% if content.empresas %}
+                    <table class="table table-striped table-hover table-sm ">
+                        {% for empresa in content.empresas %}
+                        <thead>
+                            <tr>
+                                <th scope="col">{{empresa.empresa}}</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            {% for user in empresa.users %}
+                            <tr>
+                                <th scope="row">#</th>
+                                <td>{{user.nome}}</td>
+                                <td>{{user.cargo}}</td>
+                                <td>
+                                    <a action="{{user.link}}"></a>
+                                </td>
+                            </tr>
+                            {% endfor %}
+
+                        </tbody>
+                        {% endfor%}
+                    </table>
+
+                    {% endif %}
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+
+{% endblock %}

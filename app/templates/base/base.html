@@ -1,0 +1,55 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+
+<body style="overflow: hidden;">
+    {% if messages %}
+    <div class="col-12 text-center position-fixed top-0 " style="z-index: 999999999; left:0;" id="messages"> {% for message in messages %}
+        <div class="row-12">
+            <ul{% if message.tags %} style="z-index: 999999999;" id="{{message.tags}}" class="mx-auto alert alert-{{message.tags}}  w-25 mt-4" {% endif %}>{{message}}</ul>
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %} {% block content %} {% endblock %}
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.0/gsap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="{% static 'js/main.js' %}"></script>
+    <script>
+        if ($('#messages').children().length > 0) {
+            setTimeout(() => {
+                gsap.to($('#messages').children(), {
+                    duration: 2.5,
+                    ease: "power2.out",
+                    opacity: 0
+                });
+
+                setTimeout(() => {
+                    $('#messages').children().remove()
+                }, 2000)
+
+            }, 2000)
+            gsap.from($('#main-content'), {
+                duration: .5,
+                ease: "power2.in",
+                opacity: 0
+            })
+        }
+    </script>
+</body>
+
+</html>

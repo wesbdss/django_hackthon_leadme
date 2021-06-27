@@ -1,0 +1,19 @@
+{% extends 'base/base.html' %} {% load static %}
+<!--  -->
+{% block content %}
+
+<div class="login-page">
+    <div class="form">
+        <form action="{% url 'app:login' %}" method="POST" class="login-form">
+            {% csrf_token %}
+            <input type="text" placeholder="Usuário" name="username" />
+            <input type="password" placeholder="Senha" name="password" />
+            <button>login</button>
+            <!-- <input type="submit" value="LOGIN"> -->
+            <p class="message ">Sem Registro? <a href="# ">Solicitar conta</a></p>
+        </form>
+    </div>
+</div>
+
+
+{% endblock %}
