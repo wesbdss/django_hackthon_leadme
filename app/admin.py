@@ -4,8 +4,6 @@ from .models import  Leads
 
 
 class LeadsAdmin(admin.ModelAdmin):
-    list_display = ('nome', 'cargo')
-
-
+    list_display = ('nome', 'cargo', 'empresa')
 
 admin.site.register(Leads, LeadsAdmin)

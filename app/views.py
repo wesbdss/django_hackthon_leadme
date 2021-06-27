@@ -8,14 +8,22 @@ from django.contrib import messages
 from django.db.models import Count
 from django.http import HttpResponseRedirect
 import requests
+import threading
 
+def worker(request):
+    requests.post('http://127.0.0.1:8000/api/leads/',data =  {"empresa": request.POST.get('empresa')})
+    return
+
+    
+    
 # Create your views here.
 @login_required(login_url='/login/')
 def homepage(request):
 
     if request.method == 'POST':
         # manda pra api
-        requests.post('http://127.0.0.1:8000/api/leads/',data =  {"empresa": request.POST.get('empresa')})
+        t = threading.Thread(target=worker,args=(request,))
+        t.start()
         messages.add_message(request, messages.SUCCESS, ('Buscando a empresa - %s - ' %request.POST.get('empresa')))
         messages.add_message(request, messages.INFO, ("O sistema coleta informações 24 horas por dia, espere até 1 min para obter resultados."))
         return HttpResponseRedirect(reverse('app:leads'))

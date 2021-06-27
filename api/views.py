@@ -22,7 +22,7 @@ import pickle
 
 driver = None
 options = Options()
-options.headless = False
+options.headless = True
 # precisa do firefox instalado na maquina
 driver = webdriver.Firefox(options=options,executable_path=GeckoDriverManager().install())
 driver.get('https://www.linkedin.com/')
@@ -61,26 +61,29 @@ class LeadsViewSet(viewsets.ViewSet):
 
     def create(self, request, format=None):
         entrada = request.data
+        print("post")
         global driver
-        
-        driver.get("https://www.linkedin.com/search/results/companies/")
-        driver.implicitly_wait(3)
-        empresa = entrada['empresa']
-        empresaobj = {"nome":empresa}
-        button_serch = driver.find_element_by_tag_name('input')
-        button_serch.click()
-        driver.implicitly_wait(1)
-        button_serch.send_keys(Keys.CONTROL + "a")
-        button_serch.send_keys(Keys.DELETE)
-        time.sleep(2)
-        button_serch.send_keys(empresa)
-        time.sleep(2)
-        button_serch.send_keys(Keys.ENTER)
-        time.sleep(2)
-        
-        pagina = driver.find_element_by_class_name("entity-result__title-text").find_element_by_class_name("app-aware-link")
-        time.sleep(2)
-        driver.get(pagina.get_attribute("href"))
+        try:
+            driver.get("https://www.linkedin.com/search/results/companies/")
+            driver.implicitly_wait(3)
+            empresa = entrada['empresa']
+            empresaobj = {"nome":empresa}
+            
+            button_serch = driver.find_element_by_tag_name('input')
+            button_serch.click()
+            driver.implicitly_wait(1)
+            button_serch.send_keys(Keys.CONTROL + "a")
+            button_serch.send_keys(Keys.DELETE)
+            time.sleep(1)
+            button_serch.send_keys(empresa)
+            time.sleep(1)
+            button_serch.send_keys(Keys.ENTER)
+            time.sleep(4)
+            pagina = driver.find_element_by_class_name("entity-result__title-text").find_element_by_class_name("app-aware-link")
+            time.sleep(1)
+            driver.get(pagina.get_attribute("href"))
+        except Exception as ex:
+            return Response({"erro":"Erro"})
 
         
         empresaobj['link'] = driver.current_url
