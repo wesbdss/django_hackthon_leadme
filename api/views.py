@@ -30,6 +30,7 @@ cookies = pickle.load(open("./api/cookies.pkl", "rb"))
 for cookie in cookies:
     driver.add_cookie(cookie)
 driver.get('https://www.linkedin.com/')
+driver.implicitly_wait(2)
 # 
 # driver.implicitly_wait(2)
 # username = driver.find_element_by_id('username')
